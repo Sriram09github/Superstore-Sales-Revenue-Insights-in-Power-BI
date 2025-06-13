@@ -5,4 +5,4 @@
 📈 Shows: Total Sales, Profit, Orders, Region-wise and Category-wise trends  
 🎯 Tools: Power BI, DAX, Slicers, Date Table
 
-🔗 View the dashboard https://github.com/Sriram09github/Superstore-Sales-Revenue-Insights-in-Power-BI/blob/main/Superstore_Dashboard.pbix
+🔗 View the dashboard by downloading the `Superstore_Dashboard.pbix` file and opening in Power BI Desktop.
